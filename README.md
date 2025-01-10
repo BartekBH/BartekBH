@@ -13,7 +13,7 @@ Currently, I am focused on enhancing my practical skills in pure functional prog
 
 During my programming journey, I learned how to develop using the actor model with Akka, and you can find one of my projects here: https://github.com/BartekBH/akka-shop
 
-Also I'm interested in compilation theory and I made simple compilator which you can see here: https://github.com/BartekBH/tiny-basic-compilator
+Also I'm interested in compilation theory and I made simple compiler which you can see here: https://github.com/BartekBH/tiny-basic-compiler
 
 I'm committed to writing clean code and constantly improving my skills and knowledge.
 
